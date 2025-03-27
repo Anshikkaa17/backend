@@ -1,0 +1,34 @@
+{
+    "students": [
+      {
+        "name": "Amit Sharma",
+        "class": "10",
+        "section": "A",
+        "roll_number": 1
+      },
+      {
+        "name": "Priya Verma",
+        "class": "10",
+        "section": "A",
+        "roll_number": 2
+      },
+      {
+        "name": "Rahul Singh",
+        "class": "10",
+        "section": "B",
+        "roll_number": 3
+      },
+      {
+        "name": "Sneha Patel",
+        "class": "10",
+        "section": "B",
+        "roll_number": 4
+      },
+      {
+        "name": "Vikram Das",
+        "class": "10",
+        "section": "C",
+        "roll_number": 5
+      }
+    ]
+  }
